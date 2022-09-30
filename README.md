@@ -1,3 +1,3 @@
 # shadow-rules
 
-Rule Sets for Shadowrocket
+Rule Sets for Shadowrocket !
