@@ -1,3 +1,5 @@
+# Block HTTP3/QUIC
+# AND,((PROTOCOL,UDP),(DEST-PORT,443)),REJECT-NO-DROP
 DOMAIN,stat.y.qq.com
 DOMAIN,otheve.beacon.qq.com
 DOMAIN,adstats.tencentmusic.com

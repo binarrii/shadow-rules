@@ -1,12 +1,30 @@
 DOMAIN-SUFFIX,binarii.cc
 DOMAIN-SUFFIX,skysight.top
+# Baidu/iqiyi
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
+# Remove these lines below if you don't have trouble accessing Apple resources
+# DOMAIN,www-cdn.icloud.com.akadns.net
+# DOMAIN-SUFFIX,aaplimg.com
+# DOMAIN-SUFFIX,apple-cloudkit.com
+# DOMAIN-SUFFIX,apple.co
+# DOMAIN-SUFFIX,apple.com
+# DOMAIN-SUFFIX,apple.news
+# DOMAIN-SUFFIX,apple.com.cn
+# DOMAIN-SUFFIX,appstore.com
+# DOMAIN-SUFFIX,cdn-apple.com
+# DOMAIN-SUFFIX,crashlytics.com
+# DOMAIN-SUFFIX,icloud-content.com
+# DOMAIN-SUFFIX,icloud.com
+# DOMAIN-SUFFIX,icloud.com.cn
+# DOMAIN-SUFFIX,me.com
+# DOMAIN-SUFFIX,mzstatic.com
+# Alibaba
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,alicdn.com
-DOMAIN-KEYWORD,aliyun
+# Accelerate most visited sites
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
 DOMAIN,download.jetbrains.com
@@ -25,7 +43,6 @@ DOMAIN-SUFFIX,360in.com
 DOMAIN-SUFFIX,51ym.me
 DOMAIN-SUFFIX,71.am.com
 DOMAIN-SUFFIX,8686c.com
-DOMAIN-SUFFIX,guanjia.10010.com
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,accuweather.com
 DOMAIN-SUFFIX,acgvideo.com
@@ -222,6 +239,8 @@ DOMAIN-SUFFIX,oxfordartonline.com
 DOMAIN-SUFFIX,oxfordbibliographies.com
 DOMAIN-SUFFIX,oxfordmusiconline.com
 DOMAIN-SUFFIX,passthepopcorn.me
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,pnas.org
 DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,proquest.com
@@ -232,6 +251,9 @@ DOMAIN-SUFFIX,qhimg.com
 DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qidian.com
 DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,dns.pub
+DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,qyer.com
 DOMAIN-SUFFIX,qyerstatic.com
 DOMAIN-SUFFIX,raychase.net
@@ -333,20 +355,4 @@ DOMAIN-SUFFIX,zmz2019.com
 DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com
-DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,manmanbuy.com
-DOMAIN,www-cdn.icloud.com.akadns.net
-DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,apple-cloudkit.com
-DOMAIN-SUFFIX,apple.co
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple.com.cn
-DOMAIN-SUFFIX,appstore.com
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud.com.cn
-DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-SUFFIX,ykimg.com

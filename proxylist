@@ -1,25 +1,6 @@
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,youtube
-DOMAIN-KEYWORD,twitter
-DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,facebook
+# Google
 DOMAIN-KEYWORD,blogspot
-DOMAIN-KEYWORD,aka
-DOMAIN-KEYWORD,pixiv
-DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN-SUFFIX,tv.apple.com
-DOMAIN-SUFFIX,tv.g.apple.com
-DOMAIN-SUFFIX,tv.v.aaplimg.com
-DOMAIN-SUFFIX,tv.apple.com.akadns.net
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypalobjects.com
-DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,line.naver.jp
-DOMAIN-SUFFIX,line.me
-DOMAIN-SUFFIX,line-apps.com
-DOMAIN-SUFFIX,line-cdn.net
-DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,admin.recaptcha.net
 DOMAIN-SUFFIX,ampproject.org
@@ -74,10 +55,27 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+# LINE
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,line.naver.jp
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
+USER-AGENT,Line*
+# Clubhouse
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,clubhouse.pubnub.com
 DOMAIN-SUFFIX,joinclubhouse.com
 DOMAIN-SUFFIX,ap3.agora.io
+# Top blocked sites
+DOMAIN-KEYWORD,aka
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,pixiv
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,twimg.com
@@ -165,20 +163,16 @@ DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,tapbots.com
+DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
+# SoundCloud
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,sndcdn.com
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telesco.pe
-DOMAIN-SUFFIX,pornhub.com
+# DNS Leak
 DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,dnsleak.com
 DOMAIN-SUFFIX,expressvpn.com
@@ -187,8 +181,24 @@ DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,perfect-privacy.com
 DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.org
 DOMAIN-SUFFIX,vpnunlimited.com
-DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,whrq.net
-DOMAIN-SUFFIX,gettr.com
+# Telegram
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telesco.pe
+IP-CIDR,91.108.4.0/22,no-resolve
+IP-CIDR,91.108.8.0/22,no-resolve
+IP-CIDR,91.108.12.0/22,no-resolve
+IP-CIDR,91.108.16.0/22,no-resolve
+IP-CIDR,91.108.56.0/22,no-resolve
+IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,2001:B28:F23D::/48,no-resolve
+IP-CIDR,2001:B28:F23F::/48,no-resolve
+IP-CIDR,2001:67C:4E8::/48,no-resolve
