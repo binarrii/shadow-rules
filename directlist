@@ -1,10 +1,5 @@
 DOMAIN-SUFFIX,binarii.cc
 DOMAIN-SUFFIX,skysight.top
-# Baidu/iqiyi
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,baidubcr.com
-DOMAIN-SUFFIX,bdstatic.com
-DOMAIN-SUFFIX,yunjiasu-cdn.net
 # Remove these lines below if you don't have trouble accessing Apple resources
 # DOMAIN,www-cdn.icloud.com.akadns.net
 # DOMAIN-SUFFIX,aaplimg.com
@@ -21,9 +16,29 @@ DOMAIN-SUFFIX,yunjiasu-cdn.net
 # DOMAIN-SUFFIX,icloud.com.cn
 # DOMAIN-SUFFIX,me.com
 # DOMAIN-SUFFIX,mzstatic.com
+# Baidu/iqiyi
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,baidubcr.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,yunjiasu-cdn.net
 # Alibaba
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,alicdn.com
+# OKX
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okx-dv.net
+DOMAIN-SUFFIX,okx.cab
+DOMAIN-SUFFIX,ouyicn.dog
+DOMAIN,www.okx.com.cdn.cloudflare.net
+# HyperPay
+DOMAIN-SUFFIX,hyperpay.io
+DOMAIN-SUFFIX,hyperpay.online
+DOMAIN-SUFFIX,api.hrindv.com
+DOMAIN,hyperpay.oss-ap-southeast-1.aliyuncs.com
+DOMAIN,hyperpay-website.oss-cn-hongkong.aliyuncs.com
+DOMAIN,hyperpay.oss-accelerate.aliyuncs.com
 # Accelerate most visited sites
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
