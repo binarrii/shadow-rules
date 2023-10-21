@@ -69,9 +69,10 @@ DOMAIN-SUFFIX,clubhouse.pubnub.com
 DOMAIN-SUFFIX,joinclubhouse.com
 DOMAIN-SUFFIX,ap3.agora.io
 # Top blocked sites
-DOMAIN-KEYWORD,t-mobile.com
-DOMAIN-KEYWORD,ultramobile.com
-DOMAIN-KEYWORD,mintmobile.com
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,ultramobile.com
+DOMAIN-SUFFIX,mintmobile.com
+DOMAIN-SUFFIX,3gppnetwork.org
 DOMAIN-KEYWORD,aka
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,youtube
