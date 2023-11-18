@@ -18,9 +18,12 @@ DOMAIN-SUFFIX,skysight.top
 # DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,gdmf.apple.com
 # Microsoft
-#DOMAIN-SUFFIX,microsoft.com
-#DOMAIN-SUFFIX,s-microsoft.com
-#DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,cn.bing.com
+DOMAIN-SUFFIX,bing.com.cn
+DOMAIN-SUFFIX,cn.bing.net
+DOMAIN-SUFFIX,ditu.live.com
+DOMAIN,bj1.api.bing.com
+DOMAIN,emoi-cncdn.bing.com
 # Baidu/iqiyi
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
