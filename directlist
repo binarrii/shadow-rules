@@ -1,5 +1,6 @@
-DOMAIN-SUFFIX,binarii.cc
 DOMAIN-SUFFIX,skysight.top
+DOMAIN-SUFFIX,binarii.cc
+DOMAIN-SUFFIX,cn
 # Remove these lines below if you don't have trouble accessing Apple resources
 # DOMAIN,www-cdn.icloud.com.akadns.net
 # DOMAIN-SUFFIX,aaplimg.com
@@ -50,6 +51,15 @@ DOMAIN-SUFFIX,engkoo.com
 DOMAIN-SUFFIX,o365cn.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
+DOMAIN-SUFFIX,21vbc.com
+DOMAIN-SUFFIX,21vbluecloud.com
+DOMAIN-SUFFIX,21vbluecloud.net
+DOMAIN-SUFFIX,aggresmart.com
+DOMAIN-SUFFIX,blueaggrestore.com
+DOMAIN-SUFFIX,bluecloudprod.com
+DOMAIN-SUFFIX,mcchcdn.com
+DOMAIN-SUFFIX,mschcdn.com
+DOMAIN-KEYWORD,azchcdn
 # Baidu/iqiyi
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
@@ -152,7 +162,6 @@ DOMAIN-SUFFIX,clarivate.com
 DOMAIN-SUFFIX,classix-unlimited.co.uk
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
-DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,com-hs-hkdy.com
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,czybjz.com
