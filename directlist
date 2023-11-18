@@ -47,6 +47,9 @@ DOMAIN,file-igamecj.akamaized.net
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,speedtest.macpaw.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,163.com
