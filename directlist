@@ -17,12 +17,16 @@ DOMAIN-SUFFIX,skysight.top
 # DOMAIN-SUFFIX,me.com
 # DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,gdmf.apple.com
+# Microsoft
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,bing.com
 # Baidu/iqiyi
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
-# Alibaba
+# Ali
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,alicdn.com
 # OKX
@@ -48,9 +52,6 @@ DOMAIN,file-igamecj.akamaized.net
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,speedtest.macpaw.com
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,s-microsoft.com
-DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,163.com
