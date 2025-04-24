@@ -1,6 +1,5 @@
 DOMAIN-SUFFIX,skysight.top
 DOMAIN-SUFFIX,binarii.cc
-DOMAIN-SUFFIX,cn
 # Apple
 DOMAIN,gdmf.apple.com
 # Remove these lines below if you don't have trouble accessing Apple resources
@@ -43,6 +42,8 @@ DOMAIN,hyperpay.oss-ap-southeast-1.aliyuncs.com
 DOMAIN,hyperpay-website.oss-cn-hongkong.aliyuncs.com
 DOMAIN,hyperpay.oss-accelerate.aliyuncs.com
 # Accelerate most visited sites
+DOMAIN-SUFFIX,wenhua.com.cn
+DOMAIN-KEYWORD,wenhua
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
 DOMAIN,download.jetbrains.com
@@ -50,8 +51,6 @@ DOMAIN,file-igamecj.akamaized.net
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,speedtest.macpaw.com
-DOMAIN-SUFFIX,wenhua.com.cn
-DOMAIN-KEYWORD,wenhua
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,163.com
@@ -371,3 +370,5 @@ DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com
 DOMAIN-SUFFIX,manmanbuy.com
+# TLD cn
+DOMAIN-SUFFIX,cn
