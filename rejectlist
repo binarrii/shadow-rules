@@ -1,4 +1,2 @@
-# Block HTTP3/QUIC
-AND,((PROTOCOL,UDP),(DST-PORT,443))
 DOMAIN,pixel.ipinfo.io
 DOMAIN,m-news-net.wenhua.com.cn
