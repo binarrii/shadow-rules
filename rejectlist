@@ -2,5 +2,5 @@
 DOMAIN,pixel.ipinfo.io
 DOMAIN,m-news-net.wenhua.com.cn
 
-IP-CIDR,4.4.4.4/32
-IP-CIDR,::ffff:4.4.4.4/128
+IP-CIDR,4.4.4.4/32,no-resolve
+IP-CIDR,::ffff:4.4.4.4/128,no-resolve
