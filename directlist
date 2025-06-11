@@ -1,3 +1,4 @@
 DOMAIN-SUFFIX,skysight.top
 DOMAIN-SUFFIX,binarii.cc
 IP-CIDR,2409:8a28:400::/40,no-resolve
+IP-ASN,56041,no-resolve
