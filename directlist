@@ -1,3 +1,5 @@
 DOMAIN-SUFFIX,skysight.top
 DOMAIN-SUFFIX,binarii.cc
 DOMAIN-SUFFIX,binarii.cn
+IP-CIDR,118.31.18.64/32,no-resolve
+IP-CIDR,118.31.72.82/32,no-resolve
