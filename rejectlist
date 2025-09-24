@@ -1,8 +1,9 @@
+DOMAIN,pixel.ipinfo.io
 DOMAIN,m-news-net.wenhua.com.cn
 DOMAIN,mdata.95516.com
 DOMAIN,log.aldwx.com
 DOMAIN,jf2.10010.com
 DOMAIN,www.tianya.cn
-DOMAIN,pixel.ipinfo.io
+DOMAIN-SUFFIX,jddebug.com
 IP-CIDR,4.4.4.4/32,no-resolve
 IP-CIDR,::ffff:4.4.4.4/128,no-resolve
