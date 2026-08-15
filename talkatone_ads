@@ -1,5 +1,5 @@
 # Talkatone 去广告（加强版）- Loon
-# raw: https://raw.githubusercontent.com/carlleilzj/Talkatone_Rules/main/Loon/Talkatone_Ads.list
+# raw: https://raw.githubusercontent.com/binarrii/shadow-rules/refs/heads/main/talkatone_ads
 # 策略全部为 reject，不需要代理节点
 # 请把本规则放在所有分流规则之前，并开启「更新」
 
