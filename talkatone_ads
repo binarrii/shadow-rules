@@ -1,0 +1,171 @@
+# Talkatone 去广告（加强版）- Loon
+# raw: https://raw.githubusercontent.com/carlleilzj/Talkatone_Rules/main/Loon/Talkatone_Ads.list
+# 策略全部为 reject，不需要代理节点
+# 请把本规则放在所有分流规则之前，并开启「更新」
+
+# === Google / AdMob ===
+DOMAIN-KEYWORD,googleads
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,googleads.g.doubleclick-cn.net
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleadservices-cn.com
+DOMAIN-SUFFIX,adservice.google.com
+DOMAIN-SUFFIX,adservice.google.com.hk
+DOMAIN-SUFFIX,pagead2.googlesyndication.com
+DOMAIN-SUFFIX,pagead2.googlesyndication-cn.com
+DOMAIN-SUFFIX,tpc.googlesyndication.com
+DOMAIN-SUFFIX,tpc.googlesyndication-cn.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,g.doubleclick.net
+DOMAIN-SUFFIX,ad.doubleclick.net
+DOMAIN-SUFFIX,static.doubleclick.net
+DOMAIN-SUFFIX,fundingchoicesmessages.google.com
+DOMAIN-SUFFIX,lh3.googleadsserving.cn
+DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,www.googletagservices-cn.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,mediavisor.doubleclick.net
+
+# === Amazon ===
+DOMAIN-SUFFIX,amazon-adsystem.com
+HOST,aax.amazon-adsystem.com
+HOST,aax-fe.amazon-adsystem.com
+HOST,aax-fe-sin.amazon-adsystem.com
+HOST,c.amazon-adsystem.com
+HOST,mads.amazon-adsystem.com
+HOST,s.amazon-adsystem.com
+
+# === Smaato / PubMatic / Criteo ===
+DOMAIN-SUFFIX,smaato.net
+DOMAIN-SUFFIX,smaato.com
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,criteo.net
+
+# === InMobi ===
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,inmobicdn.net
+DOMAIN-SUFFIX,i.l.inmobicdn.net
+
+# === MobileFuse / Fyber / DT ===
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,fyber.com
+DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN-SUFFIX,digitalturbine.com
+
+# === Liftoff / Vungle ===
+DOMAIN-SUFFIX,liftoff.io
+DOMAIN-SUFFIX,liftoff-creatives.io
+DOMAIN-SUFFIX,vungle.com
+DOMAIN-SUFFIX,api.vungle.com
+DOMAIN-SUFFIX,ads.api.vungle.com
+HOST,impression.link
+HOST,impression-asia.liftoff.io
+HOST,cdn.liftoff-creatives.io
+
+# === AppLovin / Unity / ironSource ===
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,unityads.unity3d.com
+DOMAIN-SUFFIX,unity3d.com
+DOMAIN-KEYWORD,unityads
+DOMAIN-SUFFIX,ironsrc.com
+DOMAIN-SUFFIX,ironsource.mobi
+DOMAIN-SUFFIX,supersonicads.com
+DOMAIN-SUFFIX,is.com
+DOMAIN-SUFFIX,ssacdn.com
+
+# === Mintegral / Pangle / ByteDance ===
+DOMAIN-SUFFIX,mintegral.com
+DOMAIN-SUFFIX,mintegral.net
+DOMAIN-SUFFIX,mgsdk.mbridge.com
+DOMAIN-SUFFIX,mbridge.com
+DOMAIN-SUFFIX,pangle.io
+DOMAIN-SUFFIX,pangle-b.io
+DOMAIN-SUFFIX,pangleglobal.com
+DOMAIN-SUFFIX,ads.tiktok.com
+DOMAIN-KEYWORD,pangle
+
+# === Appier / Tappx / Moloco ===
+DOMAIN-SUFFIX,appier.net
+DOMAIN-SUFFIX,appiersig.com
+DOMAIN-SUFFIX,adsappier.com
+DOMAIN-SUFFIX,tappx.com
+DOMAIN-SUFFIX,adsmoloco.com
+DOMAIN-SUFFIX,moloco.com
+HOST,cdn-f.adsmoloco.com
+HOST,tr-asia.adsmoloco.com
+
+# === 其他常见移动广告 / 归因 ===
+DOMAIN-SUFFIX,taboola.com
+DOMAIN-SUFFIX,outbrain.com
+DOMAIN-SUFFIX,chartboost.com
+DOMAIN-SUFFIX,adcolony.com
+DOMAIN-SUFFIX,tapjoy.com
+DOMAIN-SUFFIX,startappservice.com
+DOMAIN-SUFFIX,startappexchange.com
+DOMAIN-SUFFIX,mopub.com
+DOMAIN-SUFFIX,ads.mopub.com
+DOMAIN-SUFFIX,rubiconproject.com
+DOMAIN-SUFFIX,openx.net
+DOMAIN-SUFFIX,adsrvr.org
+DOMAIN-SUFFIX,adform.net
+DOMAIN-SUFFIX,bidswitch.net
+DOMAIN-SUFFIX,casalemedia.com
+DOMAIN-SUFFIX,3lift.com
+DOMAIN-SUFFIX,sharethrough.com
+DOMAIN-SUFFIX,indexww.com
+DOMAIN-SUFFIX,pubnative.net
+DOMAIN-SUFFIX,verve.com
+DOMAIN-SUFFIX,ads.yahoo.com
+DOMAIN-SUFFIX,advertising.com
+DOMAIN-SUFFIX,adsafeprotected.com
+DOMAIN-SUFFIX,moatads.com
+DOMAIN-SUFFIX,scorecardresearch.com
+DOMAIN-SUFFIX,crwdcntrl.net
+DOMAIN-SUFFIX,rlcdn.com
+DOMAIN-SUFFIX,agkn.com
+DOMAIN-SUFFIX,bluekai.com
+DOMAIN-SUFFIX,exelator.com
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,everesttech.net
+DOMAIN-SUFFIX,serving-sys.com
+DOMAIN-SUFFIX,adsolid.com
+DOMAIN-SUFFIX,ad.smaato.net
+
+# === Adjust / AppsFlyer / Branch / Kochava（广告归因，拦了可少拉广告）===
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,adjust.net.in
+DOMAIN-SUFFIX,adjust.world
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,app.appsflyer.com
+DOMAIN-SUFFIX,branch.io
+DOMAIN-SUFFIX,app.link
+DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,control.kochava.com
+DOMAIN-SUFFIX,app-analytics-services.com
+HOST,view.adjust.com
+
+# === Jampp / my.com / 杂项 ===
+DOMAIN-SUFFIX,jampp.com
+HOST,imgx.jampp.com
+HOST,alt-r.my.com
+HOST,ep7.facebook.com
+DOMAIN-SUFFIX,ads.facebook.com
+DOMAIN-SUFFIX,an.facebook.com
+DOMAIN-SUFFIX,advertising.yahoo.com
+DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,ad.mail.ru
+DOMAIN-SUFFIX,my.com
+DOMAIN-SUFFIX,target.my.com
+DOMAIN-SUFFIX,toponad.com
+DOMAIN-SUFFIX,toponadss.com
+DOMAIN-SUFFIX,anythinktech.com
+DOMAIN-SUFFIX,sigmob.com
+DOMAIN-SUFFIX,sigmob.cn
+DOMAIN-SUFFIX,kuaishouzt.com
+DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,wxsnsdy.tc.qq.com
